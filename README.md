@@ -1,7 +1,9 @@
 # Pokémon-Fight-Mode
 
 Fight mode of Pokemon
-My first game realized with SFML
+
+My first game realized with SFML, for the course of C++
+
 To run the project you need to install the SFML library on your computer
 .
 If you find an error, go on the website https://www.sfml-dev.org/tutorials/2.4/start-cb.php
